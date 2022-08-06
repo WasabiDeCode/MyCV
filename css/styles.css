@@ -1,0 +1,108 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #1C1427;
+}
+div{
+  width: 100%;
+}
+h1{
+  font-family: 'Meow Script', sans-serif;
+  font-size: 105px;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #1C1427;
+  font-size: 35px;
+}
+h3{
+  font-size: 27px;
+}
+p{
+  font-size: 25px;
+}
+#programmer{
+  font-family: 'Josefin Sans';
+  font-size: 35px;
+
+}
+#intro{
+  font-family: 'Josefin Sans';
+}
+.title{
+  color: #E6B325;
+}
+.top{
+  background-color: #343A40;
+  position: relative;
+  padding-top: 100px;
+}
+.profile{
+  position: relative;
+  background-color: #4F0E0E;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #E0C097;
+}
+#kenobi{
+  color: #E0C097;
+}
+.hat{
+  position: absolute;
+  transform: rotate(35deg);
+  width: 300px;
+  height: 270px;
+  right: 15%;
+  top: 35%;
+}
+
+.book {
+  position: absolute;
+  transform: rotate(325deg);
+  width: 200px;
+  height: 200px;
+  left: 11%;
+  top: 25%;
+}
+.profimg{
+  width: 150px;
+  height: 150px;
+}
+.skill-row{
+  background-color: #B85C38;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.proffesional-xp{
+  background-color: #BB8760;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.projects{
+  background-color: #B4846C;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.educate{
+  background-color: #E5B299;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.contact-me{
+  background-color: #FCDEC0;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom-container{
+  background-color: #4F0E0E;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #E0C097;
+}
